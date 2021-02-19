@@ -1,0 +1,12 @@
+{
+    "name": "niimko/niimko",
+    "description": "niimko",
+    "keywords": ["niimko"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alexber220",
+            "email": "alexber220@yandex.ru"
+        }
+    ]
+}
